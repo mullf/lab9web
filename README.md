@@ -1,4 +1,6 @@
 # Praktikum 9
+## Tugas Praktikum 8
+[LAB 8 DATABASE](https://github.com/mullf/Lab8Web/blob/main/README.md)
 
 # Langkah-langkah Praktikum
 
