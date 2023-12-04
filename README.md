@@ -39,7 +39,7 @@
 </footer>
 ```
 
-### Buat file dengan about.php 
+### Buat file dengan "about.php" 
 
 ```
 <?php require('header.php'); ?>
@@ -53,7 +53,7 @@
 ![prak9_php1](https://github.com/mullf/lab9web/assets/115521049/7d149662-d8a4-451b-9595-696f69cb4126)
 
 
-### Buat file dengan kontak.php 
+### Buat file dengan "kontak.php" 
 
 ```
 <?php require('header.php'); ?>
@@ -67,7 +67,7 @@
 ![prak9_php2](https://github.com/mullf/lab9web/assets/115521049/707f7cb5-f4db-4a45-b8fd-cc8b2423b245)
 
 
-### Buat file dengan home.php
+### Buat file dengan "home.php"
 
 ```
 <?php require('header.php')?>
@@ -84,7 +84,7 @@
 ## Tugas 
 Implementasikan konsep modularisasi pada kode program praktikum 8
 
-### Buat file link.php
+### Buat file "link.php"
 ```
 <?php 
     $menu = "index.php";
@@ -92,7 +92,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8
 <p><a href="<?php echo $menu; ?>">Kembali Ke Menu</a></p>
 ```
 
-### Buat file footer.php
+### Buat file "footer.php"
 ```
 <footer>
     <div class="footer">
