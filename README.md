@@ -101,7 +101,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8
 </footer>
 ```
 
-## Implementasikan Kode
+## Implementasi Kode
 implementasikan kode footer dan link kedalam main kode atau menu
 
 ### Implementasi pada tampilan menu
