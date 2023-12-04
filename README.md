@@ -1,8 +1,8 @@
 # Praktikum 9
 
-# Langkah-langkah praktikum
+# Langkah-langkah Praktikum
 
-### Buat file dengan header.php
+### Buat file dengan "header.php"
 
 ```
 <!DOCTYPE html>
@@ -29,7 +29,7 @@
         </nav>
 ```
 
-### Buat file dengan footer.php
+### Buat file dengan "footer.php"
 
 ```
 <footer>
