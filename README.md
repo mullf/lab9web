@@ -33,7 +33,7 @@
 
 ### Buat file dengan "footer.php"
 
-```
+```php
 <footer>
     <div class="footer">
         <p>&copy; 2021, Informatika, Universitas Pelita Bangsa</p>
@@ -43,7 +43,7 @@
 
 ### Buat file dengan "about.php" 
 
-```
+```php
 <?php require('header.php'); ?>
     <div class="content">
         <h2>Ini Halaman About</h2>
@@ -57,7 +57,7 @@
 
 ### Buat file dengan "kontak.php" 
 
-```
+```php
 <?php require('header.php'); ?>
     <div class="content">
         <h2>Ini Halaman kontak</h2>
@@ -71,7 +71,7 @@
 
 ### Buat file dengan "home.php"
 
-```
+```php
 <?php require('header.php')?>
 <div class="content">
         <h2>Ini Halaman home</h2>
@@ -87,7 +87,7 @@
 Implementasikan konsep modularisasi pada kode program praktikum 8
 
 ### Buat file "link.php"
-```
+```php
 <?php 
     $menu = "index.php";
 ?>
@@ -95,7 +95,7 @@ Implementasikan konsep modularisasi pada kode program praktikum 8
 ```
 
 ### Buat file "footer.php"
-```
+```php
 <footer>
     <div class="footer">
         <p>&copy; 2023, Informatika, Johanes Mula Febrian Sihombing</p>
@@ -108,7 +108,7 @@ implementasikan kode footer dan link kedalam main kode atau menu
 
 ### Implementasi pada tampilan menu
 
-```
+```php
 <?php
 include("koneksi.php");
 // query untuk menampilkan data
@@ -169,7 +169,7 @@ $result = mysqli_query($conn, $sql);
 
 ### Implementasi pada fitur tambah barang
 
-```
+```php
 <?php
 error_reporting(E_ALL);
 
@@ -280,7 +280,7 @@ if (isset($_POST['submit'])) {
 
 ### Implementasi pada fitur ubah barang
 
-```
+```php
 <?php
 error_reporting(E_ALL);
 
