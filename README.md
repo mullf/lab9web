@@ -6,7 +6,7 @@
 
 ### Buat file dengan "header.php"
 
-```
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
